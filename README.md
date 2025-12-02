@@ -1,5 +1,5 @@
 # Capstone Project Module 2
-Nama   : Rivaldo Nugradwiyanto
+Nama   : Rivaldo Nugradwiyanto  
 Kelas  : JCDSAH-024
 ## Latar Belakang
 Airbnb menjadi salah satu platform akomodasi terbesar di dunia dengan ribuan listing tersedia di setiap kota besar, termasuk Bangkok. Kota ini memiliki karakteristik yang unik karena:
