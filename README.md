@@ -20,23 +20,23 @@ The Airbnb Listings Bangkok dataset provides an opportunity to analyze location 
 This dataset contains information about accommodation listings in Bangkok that are registered on Airbnb.
 There are 17 columns in the Airbnb Listings Bangkok dataset:
 
-Unnamed:0 : extra dataset index
-id : unique ID for each listing
-name : name of the listing
-host_id : unique ID of the host
-host_name : name of the host
-neighbourhood : name of the area/district where the listing is located
-latitude : latitude coordinate of the listing location
-longitude : longitude coordinate of the listing location
-room_type : type of room
-price : listing price in Baht (THB)
-minimum_nights : minimum number of nights required to book
-number_of_reviews : total number of reviews for the listing
-last_review : date of the last review
-reviews_per_month : average number of reviews per month
-calculated_host_listings_count : number of listings owned by the host
-availability_365 : number of available days in one year
-number_of_reviews_ltm : number of reviews in the last 12 months
+Unnamed:0 : extra dataset index  
+id : unique ID for each listing  
+name : name of the listing  
+host_id : unique ID of the host  
+host_name : name of the host  
+neighbourhood : name of the area/district where the listing is located  
+latitude : latitude coordinate of the listing location  
+longitude : longitude coordinate of the listing location  
+room_type : type of room  
+price : listing price in Baht (THB)  
+minimum_nights : minimum number of nights required to book  
+number_of_reviews : total number of reviews for the listing  
+last_review : date of the last review  
+reviews_per_month : average number of reviews per month  
+calculated_host_listings_count : number of listings owned by the host  
+availability_365 : number of available days in one year  
+number_of_reviews_ltm : number of reviews in the last 12 months  
 
 ## Analysis Process
 1. Load Data
