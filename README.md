@@ -46,3 +46,9 @@ number_of_reviews_ltm : number of reviews in the last 12 months
 5. Outlier Handling
 6. Data Visualization
 7. Inferential Analysis
+
+## Dashboard
+You can see the dashboard at the link down below:
+https://public.tableau.com/app/profile/rivaldo.nugradwiyanto/viz/AirbnbListingsBangkokPerformance/Dashboard1
+
+This dashboard presents key insights on how location factors such as distance to the city center, MRT/BTS stations, and tourist attractions affect Airbnb listing performance in Bangkok, including price and demand patterns.
